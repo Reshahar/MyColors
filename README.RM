@@ -1,0 +1,4 @@
+command
+#cd
+#cp dircolors .dorcolors
+#rm dircolors
