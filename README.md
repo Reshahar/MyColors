@@ -1,0 +1,2 @@
+# MyColors
+linux .dircolors
